@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HuPMK8WNjhbR3XzwWLBUxGVWIzfamZfaA/c8S778Msc=",
+  "Source": "BookLendingAPI",
+  "BasePath": "_content/BookLendingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
